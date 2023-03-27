@@ -1,0 +1,59 @@
+body {
+    font-family: Poppins, sans-serif;
+}
+.bg {
+    background-color: white;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.navbar, .daftar, .no, .konsul, p{
+    font-size: 14px;
+}
+.navbar a {
+    text-decoration: none;
+    color: black;
+}
+.judul {
+    font-size: 40px;
+}
+.rounded-circle, .daftar {
+    background-color: #187cff;
+    color: white;
+}
+.sub, .jumlah, button .navbar .member  {
+    font-size: 16px;
+}
+.button {
+    gap: 40px;
+}
+.Free {
+    font-size: 12px;
+    background-color: #ff0000;
+}
+.konsul {
+    background-color: #ffd200;
+}
+.kalimat {
+    background-color: white;
+}
+.kalimat p {
+    font-size: 13px;
+    width: 400px;
+}
+.wa {
+    height: 50px;
+}
+.wa input {
+    width: 180px;
+}
+.wa button {
+    background-color: #a1b0c7;
+    align-items: center;
+}
+.category p, .copyright {
+    font-size: 12px;
+}
+.footer {
+    background-color: #187cff;
+}
